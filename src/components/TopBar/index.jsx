@@ -29,7 +29,7 @@ function TopBar() {
       <Toolbar sx={{ justifyContent: "space-between" }}>
         {}
         <Typography variant="h6" color="inherit">
-          Phạm Trung Hiếu
+          Nguyễn Thọ Đạt
         </Typography>
 
         {}
